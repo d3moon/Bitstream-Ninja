@@ -44,7 +44,7 @@ npm install
 ### Execução:
 
 ```bash
-node app --size 5 --digits 12
+node app.js --size 5 --digits 12
 ``` 
 
 <details>
